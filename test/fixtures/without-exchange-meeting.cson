@@ -1,0 +1,14 @@
+uuid: "f9513c4d-4d5f-4e93-b632-472ab1ea0c92"
+name: "Octoblu Conf. (Tempe) Room"
+type: "device:conference-room"
+genisys:
+	meetings:
+		"2bb3beb5-7bcb-e7b1-161c-67c6c129522a":
+			meetingId: "2bb3beb5-7bcb-e7b1-161c-67c6c129522a"
+		"250eafc0-97f5-11e6-8a6f-9d0a4fd407f9":
+			exchange:
+				itemId: "AAMkADYxNGJmNGNmLTIxYTctNDlkOC1hZWRmLTJjMTMzZmI5YmUxNABGAAAAAAACtVr7DjkQQ4cFx7dwBexwBwD9KrxseohjTIFhVu2R9k27AAAAAAENAAD9KrxseohjTIFhVu2R9k27AAAS/0PZAAA="
+			meetingId: "250eafc0-97f5-11e6-8a6f-9d0a4fd407f9"
+			subject: "Adhoc Meeting"
+		"61c85096-d529-4c27-b477-03d6d62e1341":
+			meetingId: "250ed6d0-97f5-11e6-8a6f-9d0a4fd407f9"
